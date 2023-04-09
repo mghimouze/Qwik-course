@@ -1,4 +1,4 @@
-# Qwik qwik-conference-app ⚡️
+# Qwik Course 
 
 - File based routing and MDX support
 - Vite.js tooling.
