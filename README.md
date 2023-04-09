@@ -59,17 +59,6 @@ Then visit [http://localhost:8080/](http://localhost:8080/)
 
 ---
 
-## Related
-
-- [Qwik Docs](https://qwik.builder.io/)
-- [Qwik Github](https://github.com/BuilderIO/qwik)
-- [@QwikDev](https://twitter.com/QwikDev)
-- [Discord](https://qwik.builder.io/chat)
-- [Vite](https://vitejs.dev/)
-- [Partytown](https://partytown.builder.io/)
-- [Mitosis](https://github.com/BuilderIO/mitosis)
-- [Builder.io](https://www.builder.io/)
-
 ## Express Server
 
 This app has a minimal [Express server](https://expressjs.com/) implementation. After running a full build, you can preview the build using the command:
